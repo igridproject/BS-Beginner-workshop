@@ -1,5 +1,5 @@
 {
-  "job_id": "openweather.pathum",
+  "job_id": "ex02_openweather",
   "active": "true",
   "trigger": {
     "type": "cron",

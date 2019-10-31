@@ -1,5 +1,5 @@
 {
-  "job_id": "rainradar.bkk",
+  "job_id": "ex01_radar",
   "active": "true",
   "trigger": {
     "type": "cron",
@@ -14,7 +14,10 @@
   },
   "data_transform": [
     {
-      "type": "noop"
+      "type": "filter-duplicate",
+      "param": {
+        "name": "bkk"
+      }
     }
   ],
   "data_out": {

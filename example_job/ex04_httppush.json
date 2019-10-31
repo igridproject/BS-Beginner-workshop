@@ -1,9 +1,9 @@
 {
-  "job_id": "httppush.linenotify",
+  "job_id": "ex04_httppush",
   "active": "true",
   "trigger": {
     "type": "http",
-    "appkey": "line",
+    "appkey": "dashboard",
     "method": "get"
   },
   "data_in": {
@@ -16,10 +16,9 @@
     "type": "noop"
   },
   "data_out": {
-    "type": "line-notify",
+    "type": "dweet",
     "param": {
-      "token": "LINE-TOKEN",
-      "message": "${data.msg}"
+      "thing": "your-thing-name"
     }
   },
   "_vo": ""
