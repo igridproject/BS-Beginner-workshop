@@ -8,7 +8,7 @@ BigStream Beginner workshop
 
 ## Resource URL
 * Presentation :: [PDF](http://igridproject.info/owncloud/index.php/s/XAb2M1XUJVJLuyb)
-* VM BOX Installation Guide :: [PDF](http://igridproject.info/owncloud/index.php/s/jVolZsPzm3EJ4lZ)
+* VM BOX Installation Guide :: [PDF](http://igridproject.info/owncloud/index.php/s/Hzsst3njkrKWdXv)
 * BigStream Storage Documentation :: [Read](https://docs.google.com/document/d/1yMsHnJAIxFWTyjCRJtWfJtHs-blxiNF6nvCUEKU4mJ8/edit?usp=sharing)
 * Access Control Guide :: [Read](https://docs.google.com/document/d/1beymfq19WWlyINL2KG4eVyihDY5oxocC0aN4PYdPxXk/edit?usp=sharing)
 * DashBoard :: http://freeboard.igridproject.info
